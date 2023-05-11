@@ -1,0 +1,12 @@
+{
+  "name": "network-visualization",
+  "version": "1.0.0",
+  "description": "A simple network visualization using D3.js, served with Node.js and Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
